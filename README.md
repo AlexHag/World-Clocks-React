@@ -1,5 +1,7 @@
 # React World Clocks
 
+<img src="clocks.png">
+
 ## A. Scenario
 
 React is a hugely appreciated JavaScript library for frontend development. This doesn't mean that it's necessarily the best one (it's very good though), but it's very widely adopted and the concepts on which it is built appears in other frameworks as well. One of the core concepts of React is that it's component-based. Today we'll be exploring this topic by bulding a world clock SPA.
